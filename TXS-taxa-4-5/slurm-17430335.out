@@ -1,0 +1,713 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) CCconfig         4) imkl/2020.1.217    7) libfabric/1.10.1
+  2) gentoo/2020      5) intel/2020.1.217   8) openmpi/4.0.3
+  3) gcccore/.9.3.0   6) ucx/1.8.0          9) StdEnv/2020
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+The environment has already been set by the module.
+Not making any changes.
+The environment has already been set by the module.
+Not making any changes.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/prep to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd to search path.
+-f: Source PPO.in.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./PPO.in
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/gaff.dat
+Reading title:
+AMBER General Force Field for organic molecules (Version 1.81, May 2017)
+Loading Mol2 file: ../ligand_files/PPO.mol2
+Reading MOLECULE named PPO_H
+Loading parameters: ../ligand_files/PPO.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Building topology.
+Building atom parameters.
+	Quit
+
+Exiting LEaP: Errors = 0; Warnings = 0; Notes = 0.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/prep to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd to search path.
+-f: Source TAX.in.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./TAX.in
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/gaff.dat
+Reading title:
+AMBER General Force Field for organic molecules (Version 1.81, May 2017)
+Loading Mol2 file: ../ligand_files/TAX.mol2
+Reading MOLECULE named taxa-4-5
+Loading parameters: ../ligand_files/TAX.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Building topology.
+Building atom parameters.
+	Quit
+
+Exiting LEaP: Errors = 0; Warnings = 0; Notes = 0.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/prep to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd to search path.
+-f: Source complex.in.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./complex.in
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/amino12.lib
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/aminoct12.lib
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/aminont12.lib
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/gaff.dat
+Reading title:
+AMBER General Force Field for organic molecules (Version 1.81, May 2017)
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.water.tip3p
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.water.tip3p done
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/atomic_ions.lib
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/solvents.lib
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+This is the additional/replacement parameter set for TIP3P water
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ions1lm_126_tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+Li/Merz ion parameters of monovalent ions for TIP3P water model (12-6 normal usage set)
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ionsjc_tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+Monovalent ion parameters for Ewald and TIP3P water from Joung & Cheatham JPCB (2008)
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ions234lm_126_tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+Li/Merz ion parameters of divalent to tetravalent ions for TIP3P water model (12-6 normal usage set)
+Loading parameters: ../ligand_files/PPO.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Loading parameters: ../ligand_files/TAX.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Loading library: ../ligand_files/PPO.lib
+Loading library: ../ligand_files/TAX.lib
+Loading PDB file: ../TXS-taxa-4-5_start.pdb
+ (starting new molecule for chain A)
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+One sided connection. Residue (default_name) missing connect1 atom.
+  Added missing heavy atom: .R<CLYS 1572>.A<OXT 23>
+  Added missing heavy atom: .R<NASN 1573>.A<CG 10>
+  Added missing heavy atom: .R<NASN 1573>.A<CB 7>
+  Added missing heavy atom: .R<NASN 1573>.A<CA 5>
+  Added missing heavy atom: .R<NASN 1573>.A<N 1>
+  Added missing heavy atom: .R<NASN 1573>.A<C 15>
+  Added missing heavy atom: .R<NASN 1573>.A<O 16>
+  Added missing heavy atom: .R<VAL 1574>.A<N 1>
+  Added missing heavy atom: .R<VAL 1574>.A<CA 3>
+  Added missing heavy atom: .R<VAL 1574>.A<CB 5>
+  Added missing heavy atom: .R<VAL 1574>.A<C 15>
+  Added missing heavy atom: .R<VAL 1574>.A<CG1 7>
+  Added missing heavy atom: .R<VAL 1574>.A<CG2 11>
+  Added missing heavy atom: .R<VAL 1574>.A<O 16>
+  Added missing heavy atom: .R<GLN 1575>.A<N 1>
+  Added missing heavy atom: .R<GLN 1575>.A<CA 3>
+  Added missing heavy atom: .R<GLN 1575>.A<CB 5>
+  Added missing heavy atom: .R<GLN 1575>.A<C 16>
+  Added missing heavy atom: .R<GLN 1575>.A<CG 8>
+  Added missing heavy atom: .R<GLN 1575>.A<O 17>
+  Added missing heavy atom: .R<GLN 1575>.A<CD 11>
+  Added missing heavy atom: .R<GLN 1575>.A<NE2 13>
+  Added missing heavy atom: .R<ARG 1576>.A<N 1>
+  Added missing heavy atom: .R<ARG 1576>.A<CA 3>
+  Added missing heavy atom: .R<ARG 1576>.A<CB 5>
+  Added missing heavy atom: .R<ARG 1576>.A<C 23>
+  Added missing heavy atom: .R<ARG 1576>.A<CG 8>
+  Added missing heavy atom: .R<ARG 1576>.A<O 24>
+  Added missing heavy atom: .R<ARG 1576>.A<CD 11>
+  Added missing heavy atom: .R<ARG 1576>.A<NE 14>
+  Added missing heavy atom: .R<ARG 1576>.A<CZ 16>
+  Added missing heavy atom: .R<ARG 1576>.A<NH1 17>
+  Added missing heavy atom: .R<MET 1577>.A<N 1>
+  Added missing heavy atom: .R<LEU 1578>.A<CB 5>
+  Added missing heavy atom: .R<LEU 1578>.A<CG 8>
+  Added missing heavy atom: .R<LEU 1578>.A<CD1 10>
+  Added missing heavy atom: .R<LEU 1578>.A<CD2 14>
+  Added missing heavy atom: .R<ARG 1582>.A<CD 11>
+  Added missing heavy atom: .R<ARG 1582>.A<NE 14>
+  Added missing heavy atom: .R<ARG 1582>.A<CZ 16>
+  Added missing heavy atom: .R<ARG 1582>.A<NH1 17>
+  Added missing heavy atom: .R<ARG 1582>.A<NH2 20>
+  Added missing heavy atom: .R<TRP 1585>.A<O 24>
+  Added missing heavy atom: .R<TRP 1585>.A<CE3 20>
+  Added missing heavy atom: .R<TRP 1585>.A<CZ3 18>
+  Added missing heavy atom: .R<TRP 1585>.A<CH2 16>
+  Added missing heavy atom: .R<TRP 1585>.A<CZ2 14>
+  Added missing heavy atom: .R<GLU 1586>.A<CA 3>
+  Added missing heavy atom: .R<GLU 1586>.A<CB 5>
+  Added missing heavy atom: .R<GLU 1586>.A<C 14>
+  Added missing heavy atom: .R<GLU 1586>.A<CG 8>
+  Added missing heavy atom: .R<GLU 1586>.A<O 15>
+  Added missing heavy atom: .R<GLU 1586>.A<CD 11>
+  Added missing heavy atom: .R<GLU 1586>.A<OE1 12>
+  Added missing heavy atom: .R<GLU 1586>.A<OE2 13>
+  Added missing heavy atom: .R<LEU 1587>.A<CA 3>
+  Added missing heavy atom: .R<LEU 1587>.A<C 18>
+  Added missing heavy atom: .R<LEU 1587>.A<O 19>
+  Added missing heavy atom: .R<LEU 1587>.A<CD2 14>
+  Added missing heavy atom: .R<TYR 1588>.A<N 1>
+  Added missing heavy atom: .R<TYR 1588>.A<CA 3>
+  Added missing heavy atom: .R<TYR 1588>.A<CB 5>
+  Added missing heavy atom: .R<TYR 1588>.A<C 20>
+  Added missing heavy atom: .R<TYR 1588>.A<CG 8>
+  Added missing heavy atom: .R<TYR 1588>.A<O 21>
+  Added missing heavy atom: .R<TYR 1588>.A<CD1 9>
+  Added missing heavy atom: .R<TYR 1588>.A<CD2 18>
+  Added missing heavy atom: .R<TYR 1588>.A<CE1 11>
+  Added missing heavy atom: .R<TYR 1588>.A<CE2 16>
+  Added missing heavy atom: .R<TYR 1588>.A<CZ 13>
+  Added missing heavy atom: .R<TYR 1588>.A<OH 14>
+  Added missing heavy atom: .R<LEU 1589>.A<CA 3>
+  Added missing heavy atom: .R<LEU 1589>.A<N 1>
+  Added missing heavy atom: .R<LEU 1589>.A<CB 5>
+  Added missing heavy atom: .R<LEU 1589>.A<CG 8>
+  Added missing heavy atom: .R<LEU 1589>.A<CD1 10>
+  Added missing heavy atom: .R<LEU 1589>.A<CD2 14>
+  Added missing heavy atom: .R<CYS 1592>.A<CA 3>
+  Added missing heavy atom: .R<CYS 1592>.A<O 11>
+  Added missing heavy atom: .R<CYS 1592>.A<CB 5>
+  Added missing heavy atom: .R<CYS 1592>.A<SG 8>
+  Added missing heavy atom: .R<PRO 1596>.A<CA 11>
+  Added missing heavy atom: .R<PRO 1596>.A<CB 8>
+  Added missing heavy atom: .R<PRO 1596>.A<C 13>
+  Added missing heavy atom: .R<PRO 1596>.A<CG 5>
+  Added missing heavy atom: .R<PRO 1596>.A<O 14>
+  Added missing heavy atom: .R<ILE 1597>.A<O 19>
+  Added missing heavy atom: .R<LEU 1598>.A<C 18>
+  Added missing heavy atom: .R<LEU 1598>.A<O 19>
+  Added missing heavy atom: .R<VAL 1599>.A<N 1>
+  Added missing heavy atom: .R<LYS 1600>.A<C 21>
+  Added missing heavy atom: .R<LYS 1600>.A<CA 3>
+  Added missing heavy atom: .R<LYS 1600>.A<N 1>
+  Added missing heavy atom: .R<LYS 1600>.A<CB 5>
+  Added missing heavy atom: .R<LYS 1600>.A<CG 8>
+  Added missing heavy atom: .R<LYS 1600>.A<CD 11>
+  Added missing heavy atom: .R<LYS 1600>.A<CE 14>
+  Added missing heavy atom: .R<LYS 1600>.A<NZ 17>
+  Added missing heavy atom: .R<ASP 1601>.A<N 1>
+  Added missing heavy atom: .R<ASP 1601>.A<CB 5>
+  Added missing heavy atom: .R<ASP 1601>.A<CG 8>
+  Added missing heavy atom: .R<ASP 1601>.A<OD1 9>
+  Added missing heavy atom: .R<ASP 1601>.A<OD2 10>
+  Added missing heavy atom: .R<VAL 1602>.A<CA 3>
+  Added missing heavy atom: .R<VAL 1602>.A<N 1>
+  Added missing heavy atom: .R<VAL 1602>.A<CB 5>
+  Added missing heavy atom: .R<VAL 1602>.A<CG1 7>
+  Added missing heavy atom: .R<VAL 1602>.A<CG2 11>
+  Added missing heavy atom: .R<GLU 1604>.A<CG 8>
+  Added missing heavy atom: .R<GLU 1604>.A<CD 11>
+  Added missing heavy atom: .R<GLU 1604>.A<OE1 12>
+  Added missing heavy atom: .R<GLU 1604>.A<OE2 13>
+  Added missing heavy atom: .R<LYS 1605>.A<CA 3>
+  Added missing heavy atom: .R<LYS 1605>.A<CB 5>
+  Added missing heavy atom: .R<LYS 1605>.A<C 21>
+  Added missing heavy atom: .R<LYS 1605>.A<CG 8>
+  Added missing heavy atom: .R<LYS 1605>.A<O 22>
+  Added missing heavy atom: .R<LYS 1605>.A<CD 11>
+  Added missing heavy atom: .R<LYS 1605>.A<CE 14>
+  Added missing heavy atom: .R<LYS 1605>.A<NZ 17>
+  Added missing heavy atom: .R<TYR 1608>.A<CZ 13>
+  Added missing heavy atom: .R<TYR 1608>.A<OH 14>
+  Added missing heavy atom: .R<PRO 1609>.A<CB 8>
+  Added missing heavy atom: .R<PRO 1609>.A<C 13>
+  Added missing heavy atom: .R<PRO 1609>.A<CG 5>
+  Added missing heavy atom: .R<PRO 1609>.A<O 14>
+  Added missing heavy atom: .R<SER 1610>.A<CA 3>
+  Added missing heavy atom: .R<SER 1610>.A<CB 5>
+  Added missing heavy atom: .R<SER 1610>.A<C 10>
+  Added missing heavy atom: .R<SER 1610>.A<O 11>
+  Added missing heavy atom: .R<PHE 1611>.A<CA 3>
+  Added missing heavy atom: .R<PHE 1611>.A<N 1>
+  Added missing heavy atom: .R<PHE 1611>.A<C 19>
+  Added missing heavy atom: .R<PHE 1611>.A<O 20>
+  Added missing heavy atom: .R<CILE 1612>.A<N 1>
+  Added missing heavy atom: .R<CILE 1612>.A<CA 3>
+  Added missing heavy atom: .R<CILE 1612>.A<CB 5>
+  Added missing heavy atom: .R<CILE 1612>.A<C 18>
+  Added missing heavy atom: .R<CILE 1612>.A<CG2 7>
+  Added missing heavy atom: .R<CILE 1612>.A<CG1 11>
+  Added missing heavy atom: .R<CILE 1612>.A<O 19>
+  Added missing heavy atom: .R<CILE 1612>.A<OXT 20>
+  total atoms in file: 13028
+  Leap added 297 missing atoms according to residue templates:
+       142 Heavy
+       155 H / lone pairs
+Adding 22 counter ions to "complex" using 1A grid
+Grid extends from solute vdw + 3.89  to  9.99
+Resolution:      1.00 Angstrom.
+ (no solvent present)
+Calculating grid charges
+Placed Na+ in complex at (56.02, 13.08, 86.92).
+Placed Na+ in complex at (60.02, 35.08, 57.92).
+Placed Na+ in complex at (68.02, -10.92, 72.92).
+Placed Na+ in complex at (13.02, 47.08, 47.92).
+Placed Na+ in complex at (34.02, 19.08, 91.92).
+Placed Na+ in complex at (68.02, 6.08, 78.92).
+Placed Na+ in complex at (54.02, 49.08, 72.92).
+Placed Na+ in complex at (25.02, 51.08, 58.92).
+Placed Na+ in complex at (45.02, 1.08, 33.92).
+Placed Na+ in complex at (41.02, 75.08, 44.92).
+Placed Na+ in complex at (32.02, 1.08, 101.92).
+Placed Na+ in complex at (57.02, 32.08, 65.92).
+Placed Na+ in complex at (63.02, -2.92, 64.92).
+Placed Na+ in complex at (60.02, 72.08, 36.92).
+Placed Na+ in complex at (24.02, -15.92, 68.92).
+Placed Na+ in complex at (44.02, -27.92, 82.92).
+Placed Na+ in complex at (63.02, 21.08, 38.92).
+Placed Na+ in complex at (37.02, -5.92, 58.92).
+Placed Na+ in complex at (17.02, 24.08, 72.92).
+Placed Na+ in complex at (47.02, -3.92, 101.92).
+Placed Na+ in complex at (44.02, 38.08, 69.92).
+Placed Na+ in complex at (20.02, -10.92, 85.92).
+
+Done adding ions.
+Scaling up box by a factor of 1.152495 to meet diagonal cut criterion
+  Solute vdw bounding box:              58.684 117.615 72.802
+  Total bounding box for atom centers:  140.665 140.665 140.665
+      (box expansion for 'iso' is 152.6%)
+  Solvent unit box:                     18.774 18.774 18.774
+  Volume: 1421531.503 A^3 (oct)
+  Total mass 797534.907 amu,  Density 0.932 g/cc
+  Added 38941 residues.
+Adding 256 counter ions to "complex". 38685 solvent molecules will remain.
+0: Placed Na+ in complex at (-19.71, -2.70, -44.00).
+Placed Cl- in complex at (10.91, -19.41, -52.31).
+0: Placed Na+ in complex at (27.99, 41.40, 35.14).
+Placed Cl- in complex at (30.21, -45.33, -27.43).
+0: Placed Na+ in complex at (-12.37, 29.43, -15.73).
+Placed Cl- in complex at (8.59, -40.08, 29.09).
+0: Placed Na+ in complex at (-14.32, -24.50, -43.97).
+Placed Cl- in complex at (33.01, -38.87, -34.80).
+0: Placed Na+ in complex at (32.69, 29.53, -9.56).
+Placed Cl- in complex at (38.91, -48.76, 29.01).
+0: Placed Na+ in complex at (44.73, -16.96, 49.99).
+Placed Cl- in complex at (-0.56, -2.95, 60.27).
+0: Placed Na+ in complex at (42.62, 30.28, -28.07).
+Placed Cl- in complex at (-45.97, 22.22, -1.60).
+0: Placed Na+ in complex at (39.30, -33.02, 32.34).
+Placed Cl- in complex at (2.76, -14.88, -60.36).
+0: Placed Na+ in complex at (46.00, 26.40, -30.48).
+Placed Cl- in complex at (12.81, -2.70, 62.20).
+0: Placed Na+ in complex at (10.10, 30.28, 25.03).
+Placed Cl- in complex at (-11.58, 45.61, 25.03).
+0: Placed Na+ in complex at (23.60, 20.12, 20.50).
+Placed Cl- in complex at (-38.25, 15.24, 49.55).
+0: Placed Na+ in complex at (-32.99, 24.19, -16.08).
+Placed Cl- in complex at (-52.99, -21.36, 10.48).
+0: Placed Na+ in complex at (-4.84, -7.99, 23.19).
+Placed Cl- in complex at (34.20, -40.99, -39.29).
+0: Placed Na+ in complex at (-42.55, -12.49, 8.10).
+Placed Cl- in complex at (-40.12, 15.48, 34.85).
+0: Placed Na+ in complex at (28.70, -13.96, -3.85).
+Placed Cl- in complex at (15.78, -42.04, 7.80).
+0: Placed Na+ in complex at (-23.98, 40.87, 47.56).
+Placed Cl- in complex at (-28.81, -47.68, 31.95).
+0: Placed Na+ in complex at (44.17, -4.83, -31.73).
+Placed Cl- in complex at (-18.63, 44.54, -9.46).
+0: Placed Na+ in complex at (-15.93, 13.20, -27.41).
+Placed Cl- in complex at (-17.36, -4.09, -54.59).
+0: Placed Na+ in complex at (-19.60, -33.06, 22.62).
+Placed Cl- in complex at (-40.71, -48.50, -27.30).
+0: Placed Na+ in complex at (-55.98, 26.04, 35.20).
+Placed Cl- in complex at (44.73, 6.04, 10.17).
+0: Placed Na+ in complex at (-22.98, 21.23, -18.77).
+Placed Cl- in complex at (12.77, 24.78, -23.98).
+0: Placed Na+ in complex at (-26.52, 7.33, -56.46).
+Placed Cl- in complex at (1.95, 37.98, 45.19).
+0: Placed Na+ in complex at (-16.93, -61.84, -26.13).
+Placed Cl- in complex at (-5.51, -51.12, 30.00).
+0: Placed Na+ in complex at (10.55, -30.98, -39.77).
+Placed Cl- in complex at (-21.59, -26.82, 44.09).
+0: Placed Na+ in complex at (37.43, 41.35, -28.15).
+Placed Cl- in complex at (-40.81, 19.05, -46.98).
+0: Placed Na+ in complex at (24.80, -0.25, 2.72).
+Placed Cl- in complex at (-26.86, 47.54, 10.17).
+0: Placed Na+ in complex at (-19.53, -39.61, 5.60).
+Placed Cl- in complex at (40.23, -11.88, -14.68).
+0: Placed Na+ in complex at (0.94, 28.61, -14.55).
+Placed Cl- in complex at (57.72, 14.04, -31.83).
+0: Placed Na+ in complex at (-1.81, 41.18, -12.63).
+Placed Cl- in complex at (-29.34, -24.52, 41.08).
+0: Placed Na+ in complex at (20.43, 41.45, -13.24).
+Placed Cl- in complex at (-2.30, -53.82, -12.00).
+0: Placed Na+ in complex at (23.05, 34.09, 31.52).
+Placed Cl- in complex at (-56.50, -13.97, -13.15).
+0: Placed Na+ in complex at (0.17, -16.46, -62.67).
+Placed Cl- in complex at (-30.13, -34.23, -41.40).
+0: Placed Na+ in complex at (23.83, -1.29, -60.77).
+Placed Cl- in complex at (-2.75, 35.88, 38.18).
+0: Placed Na+ in complex at (17.88, 37.04, -43.01).
+Placed Cl- in complex at (-0.51, -32.56, -45.13).
+0: Placed Na+ in complex at (-32.09, -23.77, 16.06).
+Placed Cl- in complex at (-23.06, 17.76, -69.29).
+0: Placed Na+ in complex at (19.24, 33.61, 16.69).
+Placed Cl- in complex at (22.17, -31.21, -21.53).
+0: Placed Na+ in complex at (-41.99, -1.63, -3.11).
+Placed Cl- in complex at (-29.76, -44.92, 2.11).
+0: Placed Na+ in complex at (18.36, -35.75, 36.20).
+Placed Cl- in complex at (-20.53, 53.67, -23.10).
+0: Placed Na+ in complex at (-57.79, 38.55, -5.21).
+Placed Cl- in complex at (22.11, -39.10, -10.49).
+0: Placed Na+ in complex at (15.59, 30.13, -26.13).
+Placed Cl- in complex at (-3.89, -47.13, -14.31).
+0: Placed Na+ in complex at (50.38, 6.62, 15.73).
+Placed Cl- in complex at (30.22, -29.30, 13.40).
+0: Placed Na+ in complex at (57.47, -3.46, -23.79).
+Placed Cl- in complex at (-19.03, 28.15, -53.85).
+0: Placed Na+ in complex at (9.03, 56.51, -12.63).
+Placed Cl- in complex at (-22.18, 18.27, -66.06).
+0: Placed Na+ in complex at (-29.00, 29.37, 47.83).
+Placed Cl- in complex at (45.48, 20.22, -16.58).
+0: Placed Na+ in complex at (-20.31, -39.95, -42.94).
+Placed Cl- in complex at (-59.43, -24.24, -31.70).
+0: Placed Na+ in complex at (22.61, 13.28, 12.00).
+Placed Cl- in complex at (-49.56, -14.27, 42.45).
+0: Placed Na+ in complex at (5.33, 33.19, 43.28).
+Placed Cl- in complex at (-5.23, 9.15, -38.71).
+0: Placed Na+ in complex at (-54.64, -14.19, 19.10).
+Placed Cl- in complex at (10.03, 18.39, -31.42).
+0: Placed Na+ in complex at (32.69, -16.46, -62.67).
+Placed Cl- in complex at (-3.63, 21.81, -23.77).
+0: Placed Na+ in complex at (17.78, 40.36, -32.59).
+Placed Cl- in complex at (9.54, 21.23, -45.32).
+0: Placed Na+ in complex at (-54.70, 18.27, -12.96).
+Placed Cl- in complex at (4.32, 26.57, 51.61).
+0: Placed Na+ in complex at (10.78, 48.03, 32.22).
+Placed Cl- in complex at (39.09, 50.75, -12.55).
+0: Placed Na+ in complex at (-33.85, -37.04, 30.34).
+Placed Cl- in complex at (-22.46, 43.32, 23.53).
+0: Placed Na+ in complex at (-50.56, 9.32, 26.76).
+Placed Cl- in complex at (56.14, 45.64, 5.37).
+0: Placed Na+ in complex at (-7.24, -60.92, -1.01).
+Placed Cl- in complex at (52.39, 25.85, 13.92).
+0: Placed Na+ in complex at (-33.55, -12.13, -15.44).
+Placed Cl- in complex at (15.95, 45.90, -30.10).
+0: Placed Na+ in complex at (-59.69, 7.45, -12.07).
+Placed Cl- in complex at (-10.77, 38.27, -30.57).
+0: Placed Na+ in complex at (6.94, 48.03, 33.79).
+Placed Cl- in complex at (-7.72, -8.50, -35.32).
+0: Placed Na+ in complex at (54.80, 24.27, -29.00).
+Placed Cl- in complex at (-10.24, 1.28, -68.82).
+0: Placed Na+ in complex at (-8.23, 46.80, -30.32).
+Placed Cl- in complex at (10.51, 0.82, 48.05).
+0: Placed Na+ in complex at (-3.48, -38.97, 4.33).
+Placed Cl- in complex at (30.73, 33.70, -31.18).
+0: Placed Na+ in complex at (59.53, 17.86, 16.73).
+Placed Cl- in complex at (-29.97, 11.38, -33.71).
+0: Placed Na+ in complex at (49.02, -29.11, 36.72).
+Placed Cl- in complex at (-36.42, -13.29, 33.79).
+0: Placed Na+ in complex at (37.26, -27.35, -9.12).
+Placed Cl- in complex at (-16.63, -42.13, 4.93).
+0: Placed Na+ in complex at (21.61, -51.61, -7.60).
+Placed Cl- in complex at (22.64, 15.19, -53.96).
+0: Placed Na+ in complex at (-46.99, -39.51, 2.78).
+Placed Cl- in complex at (43.43, -46.04, 9.25).
+0: Placed Na+ in complex at (57.24, 36.87, -22.73).
+Placed Cl- in complex at (-18.21, 47.08, 2.71).
+0: Placed Na+ in complex at (25.11, -16.16, 13.58).
+Placed Cl- in complex at (54.13, -5.62, -34.16).
+0: Placed Na+ in complex at (13.49, 28.15, 52.35).
+Placed Cl- in complex at (-9.98, -66.73, 0.33).
+0: Placed Na+ in complex at (26.34, 33.79, -6.46).
+Placed Cl- in complex at (-24.78, -21.56, 51.88).
+0: Placed Na+ in complex at (-2.30, -20.44, 21.01).
+Placed Cl- in complex at (-6.57, -0.45, 65.01).
+0: Placed Na+ in complex at (29.54, -33.74, 46.76).
+Placed Cl- in complex at (-58.09, 37.18, 25.52).
+0: Placed Na+ in complex at (-28.88, 39.98, 26.76).
+Placed Cl- in complex at (-7.30, 55.64, 27.14).
+0: Placed Na+ in complex at (-32.61, 42.96, 4.45).
+Placed Cl- in complex at (36.51, 27.20, -11.31).
+0: Placed Na+ in complex at (-7.33, -14.11, -62.10).
+Placed Cl- in complex at (-0.65, -57.84, 29.66).
+0: Placed Na+ in complex at (-33.82, 51.89, 7.78).
+Placed Cl- in complex at (34.44, 35.45, -6.05).
+0: Placed Na+ in complex at (-2.43, 2.95, 69.79).
+Placed Cl- in complex at (-24.80, -57.87, 11.87).
+0: Placed Na+ in complex at (7.78, 44.99, 32.92).
+Placed Cl- in complex at (19.48, -15.42, 58.92).
+0: Placed Na+ in complex at (-23.81, 55.95, 46.72).
+Placed Cl- in complex at (5.80, -16.71, 41.86).
+0: Placed Na+ in complex at (41.10, 5.91, 29.09).
+Placed Cl- in complex at (-4.41, 12.47, 39.19).
+0: Placed Na+ in complex at (22.49, 10.50, -5.18).
+Placed Cl- in complex at (-11.31, -37.13, -42.63).
+0: Placed Na+ in complex at (36.23, 44.30, 31.95).
+Placed Cl- in complex at (-43.92, 4.72, -6.11).
+0: Placed Na+ in complex at (48.92, -13.23, -46.38).
+Placed Cl- in complex at (31.62, 22.06, -23.78).
+0: Placed Na+ in complex at (9.81, 49.18, 11.11).
+Placed Cl- in complex at (-1.68, 53.15, -39.85).
+0: Placed Na+ in complex at (-38.46, 2.10, -0.58).
+Placed Cl- in complex at (38.13, 24.48, -38.71).
+0: Placed Na+ in complex at (-41.28, 5.26, 35.89).
+Placed Cl- in complex at (-56.00, 33.51, -25.90).
+0: Placed Na+ in complex at (42.05, -1.76, 21.05).
+Placed Cl- in complex at (-17.50, -24.39, 12.21).
+0: Placed Na+ in complex at (-16.79, 54.53, 32.72).
+Placed Cl- in complex at (-18.55, 7.42, 69.09).
+0: Placed Na+ in complex at (-56.33, 32.95, -19.66).
+Placed Cl- in complex at (2.08, -48.39, -3.93).
+0: Placed Na+ in complex at (31.35, -30.70, -4.75).
+Placed Cl- in complex at (43.81, 8.93, -39.40).
+0: Placed Na+ in complex at (-35.59, -36.61, 1.51).
+Placed Cl- in complex at (36.06, -44.00, -12.69).
+0: Placed Na+ in complex at (-45.16, -43.13, 27.20).
+Placed Cl- in complex at (-9.90, -9.71, -54.38).
+0: Placed Na+ in complex at (-39.76, -14.93, 25.54).
+Placed Cl- in complex at (-21.03, -41.79, -9.67).
+0: Placed Na+ in complex at (10.40, -60.17, -34.01).
+Placed Cl- in complex at (-22.83, 25.10, -58.07).
+0: Placed Na+ in complex at (-12.65, 25.85, -39.18).
+Placed Cl- in complex at (22.33, -3.47, -49.50).
+0: Placed Na+ in complex at (-42.71, 42.52, 30.15).
+Placed Cl- in complex at (10.86, 29.16, -15.82).
+0: Placed Na+ in complex at (15.80, -41.32, 28.66).
+Placed Cl- in complex at (-53.71, -31.14, -20.77).
+0: Placed Na+ in complex at (3.43, -46.82, 40.13).
+Placed Cl- in complex at (48.69, -20.46, -23.10).
+0: Placed Na+ in complex at (48.32, 50.66, 2.11).
+Placed Cl- in complex at (0.07, 11.25, 53.89).
+0: Placed Na+ in complex at (6.03, -3.62, -73.28).
+Placed Cl- in complex at (-58.65, 20.22, 15.73).
+0: Placed Na+ in complex at (24.17, -43.48, -17.20).
+Placed Cl- in complex at (23.83, -47.28, -7.67).
+0: Placed Na+ in complex at (21.18, 53.85, 21.96).
+Placed Cl- in complex at (-39.65, -17.02, 31.95).
+0: Placed Na+ in complex at (-24.99, -48.15, 9.75).
+Placed Cl- in complex at (-5.24, 52.41, 21.40).
+0: Placed Na+ in complex at (29.56, -21.73, -51.96).
+Placed Cl- in complex at (51.89, -0.17, 1.27).
+0: Placed Na+ in complex at (-9.01, -34.51, 32.88).
+Placed Cl- in complex at (-6.52, -11.75, 38.34).
+0: Placed Na+ in complex at (-0.47, -44.80, -29.36).
+Placed Cl- in complex at (11.44, -14.05, 63.93).
+0: Placed Na+ in complex at (-5.95, 46.87, -7.11).
+Placed Cl- in complex at (-12.22, 33.09, 36.92).
+0: Placed Na+ in complex at (-19.48, 55.76, 46.48).
+Placed Cl- in complex at (-1.15, -59.21, 34.86).
+0: Placed Na+ in complex at (59.08, 23.87, 6.17).
+Placed Cl- in complex at (-27.10, -54.03, -8.58).
+0: Placed Na+ in complex at (0.96, 53.51, 12.42).
+Placed Cl- in complex at (-50.03, 16.02, -4.22).
+0: Placed Na+ in complex at (-16.71, -18.33, -37.72).
+Placed Cl- in complex at (-19.04, 56.53, 14.52).
+0: Placed Na+ in complex at (32.69, 52.52, 30.26).
+Placed Cl- in complex at (19.37, 8.32, 38.95).
+0: Placed Na+ in complex at (-28.81, -24.68, -34.43).
+Placed Cl- in complex at (56.03, -34.51, 6.33).
+0: Placed Na+ in complex at (28.11, 35.46, 25.91).
+Placed Cl- in complex at (48.34, 43.33, -17.82).
+0: Placed Na+ in complex at (-54.94, -15.71, -1.52).
+Placed Cl- in complex at (35.56, 6.21, -49.28).
+0: Placed Na+ in complex at (25.22, 55.64, 0.59).
+Placed Cl- in complex at (-50.50, 35.19, 33.45).
+0: Placed Na+ in complex at (-13.94, -52.22, -27.77).
+Placed Cl- in complex at (4.90, -28.56, -0.58).
+0: Placed Na+ in complex at (21.26, -48.12, 19.81).
+Placed Cl- in complex at (-18.17, -29.44, -35.55).
+0: Placed Na+ in complex at (-44.69, -6.38, 3.79).
+Placed Cl- in complex at (-18.44, -68.83, -4.98).
+0: Placed Na+ in complex at (8.53, -7.01, -67.25).
+Placed Cl- in complex at (7.61, -27.22, -53.25).
+0: Placed Na+ in complex at (58.38, -9.06, -14.34).
+Placed Cl- in complex at (18.34, -42.58, -49.99).
+0: Placed Na+ in complex at (10.28, -10.61, 46.99).
+Placed Cl- in complex at (4.64, -35.48, 52.91).
+0: Placed Na+ in complex at (20.00, 14.83, -53.12).
+Placed Cl- in complex at (5.99, -22.52, 59.38).
+0: Placed Na+ in complex at (-34.87, -24.23, 33.51).
+Placed Cl- in complex at (-46.67, 16.75, -27.56).
+0: Placed Na+ in complex at (6.03, -49.61, 32.92).
+Placed Cl- in complex at (-5.90, -49.71, 21.08).
+0: Placed Na+ in complex at (-13.47, -5.11, 32.48).
+Placed Cl- in complex at (45.75, 27.09, 11.70).
+0: Placed Na+ in complex at (35.86, 21.27, 22.95).
+Placed Cl- in complex at (16.64, -47.37, -11.24).
+0: Placed Na+ in complex at (16.40, -13.23, 59.83).
+Placed Cl- in complex at (41.92, 10.73, -30.47).
+Checking Unit.
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 7.028 angstroms between CG2 and HG21 atoms:
+-------  .R<VAL 1574>.A<CG2 11> and .R<VAL 1574>.A<HG21 12>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 9.032 angstroms between CG1 and HG11 atoms:
+-------  .R<VAL 1574>.A<CG1 7> and .R<VAL 1574>.A<HG11 8>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 9.270 angstroms between CD and OE1 atoms:
+-------  .R<GLN 1575>.A<CD 11> and .R<GLN 1575>.A<OE1 12>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 8.473 angstroms between CG and HG2 atoms:
+-------  .R<GLN 1575>.A<CG 8> and .R<GLN 1575>.A<HG2 9>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 13.353 angstroms between C and N atoms:
+-------  .R<ARG 1576>.A<C 23> and .R<MET 1577>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 20.329 angstroms between CZ and NH2 atoms:
+-------  .R<ARG 1576>.A<CZ 16> and .R<ARG 1576>.A<NH2 20>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 4.633 angstroms between CG and HG3 atoms:
+-------  .R<GLU 1586>.A<CG 8> and .R<GLU 1586>.A<HG3 10>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 11.904 angstroms between C and N atoms:
+-------  .R<TYR 1588>.A<C 20> and .R<LEU 1589>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 9.334 angstroms between CB and HB2 atoms:
+-------  .R<TYR 1588>.A<CB 5> and .R<TYR 1588>.A<HB2 6>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 9.497 angstroms between CB and HB3 atoms:
+-------  .R<TYR 1588>.A<CB 5> and .R<TYR 1588>.A<HB3 7>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 5.083 angstroms between N and H atoms:
+-------  .R<TYR 1588>.A<N 1> and .R<TYR 1588>.A<H 2>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 4.672 angstroms between CD2 and HD21 atoms:
+-------  .R<LEU 1589>.A<CD2 14> and .R<LEU 1589>.A<HD21 15>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 4.004 angstroms between CG and HG atoms:
+-------  .R<LEU 1589>.A<CG 8> and .R<LEU 1589>.A<HG 9>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 3.509 angstroms between C and N atoms:
+-------  .R<PRO 1596>.A<C 13> and .R<ILE 1597>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 7.140 angstroms between C and N atoms:
+-------  .R<LEU 1598>.A<C 18> and .R<VAL 1599>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 5.119 angstroms between C and N atoms:
+-------  .R<VAL 1599>.A<C 15> and .R<LYS 1600>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 3.248 angstroms between C and N atoms:
+-------  .R<LYS 1600>.A<C 21> and .R<ASP 1601>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 4.962 angstroms between C and N atoms:
+-------  .R<ASP 1601>.A<C 11> and .R<VAL 1602>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 3.538 angstroms between CB and HB atoms:
+-------  .R<VAL 1602>.A<CB 5> and .R<VAL 1602>.A<HB 6>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 3.395 angstroms between CG and HG2 atoms:
+-------  .R<GLU 1604>.A<CG 8> and .R<GLU 1604>.A<HG2 9>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 3.031 angstroms between C and N atoms:
+-------  .R<LYS 1605>.A<C 21> and .R<VAL 1606>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 4.024 angstroms between C and N atoms:
+-------  .R<SER 1610>.A<C 10> and .R<PHE 1611>.A<N 1>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 3.854 angstroms between CB and OG atoms:
+-------  .R<SER 1610>.A<CB 5> and .R<SER 1610>.A<OG 8>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 10.637 angstroms between CG1 and HG12 atoms:
+-------  .R<CILE 1612>.A<CG1 11> and .R<CILE 1612>.A<HG12 12>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 9.626 angstroms between CG1 and HG13 atoms:
+-------  .R<CILE 1612>.A<CG1 11> and .R<CILE 1612>.A<HG13 13>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+There is a bond of 11.332 angstroms between CG1 and CD1 atoms:
+-------  .R<CILE 1612>.A<CG1 11> and .R<CILE 1612>.A<CD1 14>
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+The unperturbed charge of the unit (4.000000) is not zero.
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Note.
+Ignoring the warnings from Unit Checking.
+
+Building topology.
+Building atom parameters.
+Building bond parameters.
+Building angle parameters.
+Building proper torsion parameters.
+Building improper torsion parameters.
+ total 2763 improper torsions applied
+Building H-Bond parameters.
+Incorporating Non-Bonded adjustments.
+Not Marking per-residue atom chain types.
+Marking per-residue atom chain types.
+  (Residues lacking connect0/connect1 - 
+   these don't have chain types marked:
+
+	res	total affected
+
+	CILE	1
+	CLYS	1
+	CVAL	1
+	NASN	1
+	NMET	1
+	PPO	1
+	TAX	1
+	WAT	38685
+  )
+ (no restraints)
+	Quit
+
+Exiting LEaP: Errors = 0; Warnings = 28; Notes = 1.
