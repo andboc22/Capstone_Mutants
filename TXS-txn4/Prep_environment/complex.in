@@ -9,8 +9,8 @@ loadoff ../ligand_files/PPO.lib
 loadoff ../ligand_files/TXN.lib
 
 complex=loadpdb ../TXS-txn4_start.pdb
-addIons complex Na+ 22
+addIons complex Na+ 21
 solvateOct complex TIP3PBOX 10.0
-addIonsRand complex Na+ 127 Cl- 128
+addIonsRand complex Na+ 128 Cl- 128
 saveamberparm complex ../TXS-txn4.prmtop ../TXS-txn4.inpcrd
 quit
