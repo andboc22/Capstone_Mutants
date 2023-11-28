@@ -9,7 +9,7 @@ loadoff ../ligand_files/PPO.lib
 loadoff ../ligand_files/VRT.lib
 
 complex=loadpdb ../TXS-vert8_start.pdb
-addIons complex Na+ 22
+addIons complex Na+ 21
 solvateOct complex TIP3PBOX 10.0
 addIonsRand complex Na+ 128 Cl- 128
 saveamberparm complex ../TXS-vert8.prmtop ../TXS-vert8.inpcrd
