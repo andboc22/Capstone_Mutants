@@ -7,7 +7,7 @@ loadamberparams ../ligand_files/GGP.frcmod
 loadoff ../ligand_files/GGP.lib
 
 complex=loadpdb ../TXS-GGPP_start.pdb
-addIons complex Na+ 22
+addIons complex Na+ 21
 solvateOct complex TIP3PBOX 10.0
 addIonsRand complex Na+ 128 Cl- 128
 saveamberparm complex ../TXS-GGPP.prmtop ../TXS-GGPP.inpcrd
