@@ -9,8 +9,8 @@ loadoff ../ligand_files/PPO.lib
 loadoff ../ligand_files/GGC.lib
 
 complex=loadpdb ../TXS-gerger_start.pdb
-addIons complex Na+ 21
+addIons complex Na+ 22
 solvateOct complex TIP3PBOX 10.0
-addIonsRand complex Na+ 128 Cl- 128
+addIonsRand complex Na+ 128 Cl- 129
 saveamberparm complex ../TXS-gerger.prmtop ../TXS-gerger.inpcrd
 quit
